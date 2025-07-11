@@ -43,8 +43,8 @@
  <o:File HRef="image039.jpg"/>
  <o:File HRef="image040.png"/>
  <o:File HRef="image041.jpg"/>
- <o:File HRef="image042.emz"/>
- <o:File HRef="image043.gif"/>
+ <o:File HRef="image042.png"/>
+ <o:File HRef="image043.jpg"/>
  <o:File HRef="image044.emz"/>
  <o:File HRef="image045.gif"/>
  <o:File HRef="image046.emz"/>
@@ -71,6 +71,8 @@
  <o:File HRef="image067.gif"/>
  <o:File HRef="image068.emz"/>
  <o:File HRef="image069.gif"/>
+ <o:File HRef="image070.emz"/>
+ <o:File HRef="image071.gif"/>
  <o:File HRef="header.htm"/>
  <o:File HRef="filelist.xml"/>
 </xml>
